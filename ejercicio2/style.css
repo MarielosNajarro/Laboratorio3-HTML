@@ -1,0 +1,55 @@
+body{
+	background-color: #d1d5d4;
+}
+img{
+	width: 950px;
+	height: 350px;
+	position: relative;
+	left: 17em;
+}
+table{
+	width: 60em;
+	height: 60em;
+	max-width: 1200px;
+	max-height: 1200px;
+	margin: 2em auto;
+	border: solid black;
+}
+
+.negro{
+	background-color: black;
+}
+
+.blanco{
+	background-color: white;
+}
+
+.negro:hover{
+	background-color:rgba(255, 0, 0, 0.5);
+	
+}
+
+.blanco:hover{
+	background-color:rgba(255, 0, 0, 0.5);
+}
+
+td div{
+	visibility: hidden;
+}
+
+.negro:hover > div{
+	visibility: visible;
+}
+
+.blanco:hover > div{
+	visibility: visible;
+}
+
+.section-footer{
+	display: inline-block;
+	margin-right: 15%;
+	margin-left: 15%;
+}
+
+
+
