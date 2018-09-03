@@ -1,12 +1,14 @@
 body{
 	background-color: #d1d5d4;
 }
+
 img{
 	width: 950px;
 	height: 350px;
 	position: relative;
 	left: 17em;
 }
+
 table{
 	width: 60em;
 	height: 60em;
